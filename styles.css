@@ -1,0 +1,47 @@
+.box1{
+width: 50%;
+border: solid black;
+border-width: 5px;
+background-color: orange;
+margin-bottom: 10px;
+box-sizing: border-box;
+}
+.box2{
+    width: 50%;
+    border: solid black;
+    border-width: 20px;
+    background-color: orange;
+    margin-bottom:10px; 
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.box3{
+    width: 50%;
+    padding: 50%;
+    border: solid black;
+    border-width: 30px;
+    background-color: orange;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+.myclass{
+    border:2px solid green;
+    padding: 10px;
+    background-color: orange;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    width: 50%;
+}
+
+.centered-image{
+    margin: auto;
+    width: 50%;
+    height: auto;
+    display: block;
+
+}
